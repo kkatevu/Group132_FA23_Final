@@ -1,4 +1,4 @@
-# Group132_FA23_Final
+# MIDI File Music Genre Classification
 This project analyzes MIDI files to identify their genres using machine learning techniques.
 
 ## Features
